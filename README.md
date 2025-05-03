@@ -1,2 +1,2 @@
-# Exercicios_Py
-Exercícios realizados para treinamento
+## Exercícios Py
+# Exercícios realizados para treinamento da linguagem de python.
