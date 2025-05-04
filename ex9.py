@@ -2,5 +2,5 @@
 num = int(input("Informe um número:"))
 print(f"Tabuada de {num}:")
 for t in range(10):
-    tabuada = num * (t + 1)
-    print(f"{num} x {t + 1} = {tabuada}")
+    tabuada = num * (t+1)
+    print(f"{num} x {t+1} = {tabuada}")
